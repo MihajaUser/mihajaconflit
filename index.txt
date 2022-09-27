@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 On partira de nuit, l'heure où l'on doute
 Que demain revienne encore
 Loin des villes soumises, on suivra l'autoroute
@@ -14,6 +13,3 @@ Y a que les routes qui sont belles
 Et peu importe où elles nous mènent, oh belle
 On ira, on suivra les étoiles et les chercheurs d'or
 Si on en trouve, on cherchera encore
-=======
-alina
->>>>>>> 335b5d3ea5b670820ddaa50e5a5e92f000ce7d24
