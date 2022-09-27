@@ -14,8 +14,12 @@ Et peu importe où elles nous mènent, oh belle
 On ira, on suivra les étoiles et les chercheurs d'or
 Si on en trouve, on cherchera encore
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 Olyvia e parole
 =======
 Olyvia parole
 >>>>>>> Stashed changes
+=======
+Olyvia e parole2
+>>>>>>> 7375c858d313f9dc45f251feb3ef5ca8c42fc0b4
